@@ -1,4 +1,4 @@
-# [types_of_stalkers](https://www.fighterlaw.com/7-different-types-of-stalkers/)
+# [types_of_stalkers](https://www.fighterlaw.com/7-different-types-of-stalkers/) [:clown_face: :vomiting_face: :lying_face:](https://researchers.cedars-sinai.edu/Jason.Moore/photo)
 
 Depending on what you’re subjected to, it can range from annoying to terrifying to be the victim of a stalker. So what motivates a stalker? 
 
