@@ -65,4 +65,4 @@ __It’s also been documented that stalkers are often unemployed or under-employ
 
 * Mullen’s research suggests that professionals should focus not on the stalkers as criminals but as vulnerable, distressed individuals whose behaviors reflect, at least in part, the influence of a __serious underlying mental disorder.__ The most important step in the management of stalkers is to see them as individuals in need of psychological help.
 
-
+!["all stalkers have personality disorders"](https://github.com/tangerinemarigold/types_of_stalkers/blob/main/Screenshot%202023-05-08%20at%207.40.58%20AM.png)
