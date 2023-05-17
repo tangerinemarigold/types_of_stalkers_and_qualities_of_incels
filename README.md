@@ -1,5 +1,7 @@
 # [types_of_stalkers](https://www.fighterlaw.com/7-different-types-of-stalkers/) [:clown_face: :vomiting_face: :lying_face:](https://researchers.cedars-sinai.edu/Jason.Moore/photo)
 
+# What are stalkers and what is stalking behavior
+
 Sources:
 * https://www.psychologytoday.com/us/blog/talking-about-trauma/201306/in-the-mind-of-a-stalker
 * https://www.fighterlaw.com/7-different-types-of-stalkers/
@@ -66,3 +68,25 @@ __It’s also been documented that stalkers are often unemployed or under-employ
 * Mullen’s research suggests that professionals should focus not on the stalkers as criminals but as vulnerable, distressed individuals whose behaviors reflect, at least in part, the influence of a __serious underlying mental disorder.__ The most important step in the management of stalkers is to see them as individuals in need of psychological help.
 
 !["all stalkers have personality disorders"](https://github.com/tangerinemarigold/types_of_stalkers/blob/main/Screenshot%202023-05-08%20at%207.40.58%20AM.png)
+
+# What are Incels
+## Qualities of Incels
+
+Source: ChatGPT-4
+
+Social Isolation: Many self-identified incels report feeling alienated or isolated from mainstream society. This can stem from various factors such as social anxiety, depression, or difficulties in social interaction.
+
+Sexual Frustration: The central tenet of being an incel is the inability to engage in romantic or sexual relationships, often leading to a high degree of frustration.
+
+Resentment or Misogyny: Some incels express anger, resentment, or even hatred towards women, blaming them for their perceived rejection. It's important to note, however, that not all incels harbor these feelings.
+
+Self-Deprecation: Incels often have low self-esteem and may use self-deprecating language. They may feel unattractive or undesirable and believe this to be the reason for their lack of romantic or sexual success.
+
+Online Engagement: Incels are often characterized by their engagement in online communities. These forums can foster an echo chamber effect, reinforcing negative beliefs and attitudes.
+
+Black-and-White Thinking: Some incels tend to view society, and particularly sexual and romantic relationships, in a binary, black-and-white manner, dividing men into categories such as "Chads" (attractive, successful men) and "incels" or "betas" (unsuccessful, unattractive men).
+
+Victim Mentality: Some incels perceive themselves as victims of societal norms, particularly those related to attractiveness and romantic success. They may feel that they are unfairly disadvantaged in dating or sexual relationships.
+
+Entitlement: Some incels may feel entitled to sexual or romantic attention, leading to frustration when these expectations are not met.
+
