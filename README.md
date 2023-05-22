@@ -99,6 +99,16 @@ Source: [One is the loneliest number: Involuntary celibacy (incel), mental healt
 ## No friends and loneliness
 "In 2018, the moderators of incels.me (now incels.co) conducted a poll in which roughly 300 incels participated. When asked if they had friends, only one-third of the 294 respondents indicated that they did (Jeltsen, 2018). A lack of stable friendships has also been noted in the manifestos of Rodger and Chris Harper-Mercer, a lesser-known incel whose mass shooting was one of the deadliest in Oregon’s history (Flaccus, 2017; Rodger, 2014). In the opening of his manifesto, Harper-Mercer (2015) summed up his life as “one lonely enterprise… with no friends” (p. 1). Feelings of isolation resulting from a lack of friends (among other things) are common discussion topics among incels."
 
+Source: [Incels: Inside a dark world of online hate](https://www.bbc.com/news/blogs-trending-44053828)
+
+""It was this idea that all women were inherently manipulative. All women had an intent to exploit men."
+
+Source: [A Psychologist Breaks Down The Storm That Creates ‘Incel’ Men – And Offers A Solution](https://www.forbes.com/sites/traversmark/2023/04/10/a-psychologist-breaks-down-the-storm-that-creates-incel-men--and-offers-a-solution/?sh=33f6079624ea)
+
+## Incels are depressed, anxious, and paranoid individuals
+"Incels often struggle with serious, unaddressed mental health conditions
+A new study published in The Journal of Sexual Medicine found that men who scored high on incel traits were also likely to be __depressed, anxious, and paranoid individuals.__ Moreover, the same men were found to be more likely (compared to those who scored low on incel traits) to possess a fearful attachment style. The study also found that scoring high on scales measuring paranoia, depression, and a fearful attachment style could predict the emergence of incel traits."
+
 
 
 
