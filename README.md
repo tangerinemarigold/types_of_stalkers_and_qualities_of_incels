@@ -90,3 +90,7 @@ Victim Mentality: Some incels perceive themselves as victims of societal norms, 
 
 Entitlement: Some incels may feel entitled to sexual or romantic attention, leading to frustration when these expectations are not met.
 
+Source: [Involuntary Celibates and Forensic Psychiatry](https://jaapl.org/content/early/2022/07/26/JAAPL.210136-21)
+
+"Although mass murderers are a heterogenous group, mass murderers and incels share several characteristics, including a history of being bullied as a child, __poor self-esteem__, __perceived social rejection and isolation__, __externalization of blame__, __resentment toward others__, __antisocial__, rigid, __narcissistic__, and __grandiose personality traits__, and __revenge fantasies.__"
+
