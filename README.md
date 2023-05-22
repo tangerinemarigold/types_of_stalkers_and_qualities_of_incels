@@ -136,4 +136,7 @@ fantasy, we developed an original measure of traits commonly associated with the
 greater gender role stress, more hostile attitudes toward women, and “incel” traits
 report more frequent fantasies about mass murder and rape."
 
+# Take-aways
+
+### * I think that lying to multiple and many people, due to personal one-sided grudges, as was done by Isaac Kohane and Jason Moore, is an act of mass and gender-based violence as the intention was to do harm as to many people as possible.
 
