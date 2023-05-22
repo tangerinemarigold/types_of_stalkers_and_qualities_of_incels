@@ -94,3 +94,12 @@ Source: [Involuntary Celibates and Forensic Psychiatry](https://jaapl.org/conten
 
 "Although mass murderers are a heterogenous group, mass murderers and incels share several characteristics, including a history of being bullied as a child, __poor self-esteem__, __perceived social rejection and isolation__, __externalization of blame__, __resentment toward others__, __antisocial__, rigid, __narcissistic__, and __grandiose personality traits__, and __revenge fantasies.__"
 
+Source: [One is the loneliest number: Involuntary celibacy (incel), mental health, and loneliness](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9892684/#:~:text=Incels%20will%20report%20more%20depressive,pattern%20of%20less%20secure%20attachment.)
+
+## No friends and loneliness
+"In 2018, the moderators of incels.me (now incels.co) conducted a poll in which roughly 300 incels participated. When asked if they had friends, only one-third of the 294 respondents indicated that they did (Jeltsen, 2018). A lack of stable friendships has also been noted in the manifestos of Rodger and Chris Harper-Mercer, a lesser-known incel whose mass shooting was one of the deadliest in Oregon’s history (Flaccus, 2017; Rodger, 2014). In the opening of his manifesto, Harper-Mercer (2015) summed up his life as “one lonely enterprise… with no friends” (p. 1). Feelings of isolation resulting from a lack of friends (among other things) are common discussion topics among incels."
+
+
+
+
+
