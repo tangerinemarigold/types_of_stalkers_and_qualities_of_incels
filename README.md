@@ -109,7 +109,31 @@ Source: [A Psychologist Breaks Down The Storm That Creates ‘Incel’ Men – A
 "Incels often struggle with serious, unaddressed mental health conditions
 A new study published in The Journal of Sexual Medicine found that men who scored high on incel traits were also likely to be __depressed, anxious, and paranoid individuals.__ Moreover, the same men were found to be more likely (compared to those who scored low on incel traits) to possess a fearful attachment style. The study also found that scoring high on scales measuring paranoia, depression, and a fearful attachment style could predict the emergence of incel traits."
 
+Source: [Masculinity Threat, “Incel” Traits, and Violent Fantasies Among Heterosexual Men in the United States](https://journals.sagepub.com/doi/pdf/10.1177/1557085119896415)
 
+"The current study aims to understand the roles that masculinity threat, gender role
+stress, and “incel” traits play in men’s fantasies about mass and gender-based violence.
+Research on masculinity and group position and threat offer an explanation for how
+challenges to one’s masculine gender may result in hyperconformity and, thus, mass
+or gender-based violence (Blumer, 1958; Branscombe et al., 1999; Eisler et al., 2000;
+Ging, 2017; Munsch & Willer, 2012; Willer et al., 2013). More specifically, group
+position theory outlines differences between acceptance threat (not measuring up to
+hegemonic masculinity) and status threat (the belief that the dominant group is being
+threatened by the subordinate group). Patterns of threat can transform into feelings of
+hostility toward an out-group. In their school shooter study, Kalish and Kimmel (2010)
+demonstrate how the boys exhibited “aggrieved entitlement” in which they feel
+wronged by the world—rejected, defeated—and transformed that anger into revenge.
+In the current study, we test the idea that feelings of rejection and defeat translate into
+violent fantasies."
 
+"The goal of the current study was to better understand the connection between
+“incels” and masculinity threat in violent fantasy—a key component to preparing for
+and executing mass shootings and sexually sadistic killing (Collins, 2015; Fox &
+Levin, 1998; Murray, 2015, 2017a, 2017b). To understand how challenges to the
+group status of men and to individual men’s sense of masculinity may lead to violent
+fantasy, we developed an original measure of traits commonly associated with the
+“incel” community (e.g., defeat, rejection, and vengefulness). We find that men with
+greater gender role stress, more hostile attitudes toward women, and “incel” traits
+report more frequent fantasies about mass murder and rape."
 
 
